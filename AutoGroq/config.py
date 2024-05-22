@@ -2,11 +2,11 @@
 LLM_PROVIDER = "groq" # Supported values: "groq", "openai"
 
 GROQ_API_KEY_NAME = "GROQ_API_KEY"
-GROQ_API_KEY = None
+GROQ_API_KEY = "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"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 OPENAI_API_KEY_NAME = "OPENAI_API_KEY"
-OPENAI_API_KEY = None
+OPENAI_API_KEY = "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"
 OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 
 # Retry settings
